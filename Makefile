@@ -24,6 +24,5 @@ clear:
 	rm	-f	$(OBJDIR)/*.o
 	rm	-f	$(OBJDIR)/$(MAINNAME).o
 	rm	-f	$(OBJDIR)/$(MAINNAME)
-	rm	-f	$(OBJDIR)/*.a
 	rm	-f	$(OBJDIR)/*.so
 	rm	-f	$(OBJDIR)/*.so.01
